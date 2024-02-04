@@ -22,4 +22,7 @@ Este simples sistema supervisório foi construído como projeto final da discipl
 
 <img src="janela_bd.png">
 
- 
+ ## Vídeo demonstrativo:
+
+[![sistema_supervisorio](https://img.youtube.com/vi/b_t6Jrp3t84/0.jpg)](https://www.youtube.com/watch?v=b_t6Jrp3t84)
+
