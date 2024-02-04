@@ -1,0 +1,42 @@
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe.config
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.pdb
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.AssemblyReference.cache
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Form1.resources
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Properties.Resources.resources
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.GenerateResource.cache
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.CoreCompileInputs.cache
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.exe
+I:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.pdb
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe.config
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.pdb
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.AssemblyReference.cache
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Form1.resources
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Properties.Resources.resources
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.GenerateResource.cache
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.CoreCompileInputs.cache
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.exe
+J:\Programação\sem2\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.pdb
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe.config
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.exe
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\bin\Debug\teste_graficos.pdb
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.AssemblyReference.cache
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Form1.resources
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.Properties.Resources.resources
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.GenerateResource.cache
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.csproj.CoreCompileInputs.cache
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.exe
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\obj\Debug\teste_graficos.pdb
+C:\Users\Matthews\Desktop\Laboratório\teste_graficos\teste_graficos\bin\Debug\supervisor.mdb
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\bin\Debug\supervisor.mdb
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\bin\Debug\teste_graficos.exe.config
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\bin\Debug\teste_graficos.exe
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\bin\Debug\teste_graficos.pdb
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.csproj.AssemblyReference.cache
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.Form1.resources
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.Properties.Resources.resources
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.csproj.GenerateResource.cache
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.csproj.CoreCompileInputs.cache
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.exe
+C:\Users\cardo\OneDrive\Área de Trabalho\-\Programação\Sistema Supervisório Arduino\sistema_supervisorio\teste_graficos\obj\Debug\teste_graficos.pdb

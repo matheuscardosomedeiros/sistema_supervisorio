@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="supervisorDataSet" targetNamespace="http://tempuri.org/supervisorDataSet.xsd" xmlns:mstns="http://tempuri.org/supervisorDataSet.xsd" xmlns="http://tempuri.org/supervisorDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="supervisorConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="supervisorConnectionString (Settings)" PropertyReference="ApplicationSettings.teste_graficos.Properties.Settings.GlobalReference.Default.supervisorConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="sensors_tabTableAdapter" GeneratorDataComponentClassName="sensors_tabTableAdapter" Name="sensors_tab" UserDataComponentName="sensors_tabTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="supervisorConnectionString (Settings)" DbObjectName="sensors_tab" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Código, sensor, [Level], actuator, Date_time FROM sensors_tab</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="supervisorDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="supervisorDataSet" msprop:Generator_DataSetName="supervisorDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="sensors_tab" msprop:Generator_RowEvHandlerName="sensors_tabRowChangeEventHandler" msprop:Generator_RowDeletedName="sensors_tabRowDeleted" msprop:Generator_RowDeletingName="sensors_tabRowDeleting" msprop:Generator_RowEvArgName="sensors_tabRowChangeEvent" msprop:Generator_TablePropName="sensors_tab" msprop:Generator_RowChangedName="sensors_tabRowChanged" msprop:Generator_RowChangingName="sensors_tabRowChanging" msprop:Generator_TableClassName="sensors_tabDataTable" msprop:Generator_RowClassName="sensors_tabRow" msprop:Generator_TableVarName="tablesensors_tab" msprop:Generator_UserTableName="sensors_tab">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
